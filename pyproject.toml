@@ -1,0 +1,9 @@
+[project]
+name = "bank-health"
+version = "0.1.0"
+description = "Monitor de salud bancaria del Perú con datos públicos del BCRP (Databricks)"
+requires-python = ">=3.10"
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]

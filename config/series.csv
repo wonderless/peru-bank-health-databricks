@@ -1,0 +1,108 @@
+code,group,indicator,bank_code,bank,unit,frequency
+PN07694EM,bank,participacion_colocaciones,Interbank,Interbank,%,M
+PN07695EM,bank,participacion_colocaciones,Citibank,Citibank,%,M
+PN07696EM,bank,participacion_colocaciones,Scotiabank,Scotiabank,%,M
+PN07697EM,bank,participacion_colocaciones,Continental,BBVA,%,M
+PN07698EM,bank,participacion_colocaciones,Comercio,Banco de Comercio,%,M
+PN07699EM,bank,participacion_colocaciones,Financiero,Banco Pichincha,%,M
+PN07700EM,bank,participacion_colocaciones,BanBif,BanBif,%,M
+PN07701EM,bank,participacion_colocaciones,MiBanco,MiBanco,%,M
+PN07702EM,bank,participacion_colocaciones,GNB,GNB,%,M
+PN07703EM,bank,participacion_colocaciones,Falabella,Falabella,%,M
+PN07704EM,bank,participacion_colocaciones,Santander,Santander,%,M
+PN07705EM,bank,participacion_colocaciones,Ripley,Ripley,%,M
+PN07706EM,bank,participacion_colocaciones,Azteca,Azteca,%,M
+PN07708EM,bank,participacion_colocaciones,Cencosud,Cencosud,%,M
+PN07709EM,bank,participacion_colocaciones,ICBC,ICBC,%,M
+PN07710EM,bank,participacion_colocaciones,Empresas Bancarias,Sistema bancario,%,M
+PN07711EM,bank,crecimiento_colocaciones_mensual,Crédito,BCP,%,M
+PN07712EM,bank,crecimiento_colocaciones_mensual,Interbank,Interbank,%,M
+PN07713EM,bank,crecimiento_colocaciones_mensual,Citibank,Citibank,%,M
+PN07714EM,bank,crecimiento_colocaciones_mensual,Scotiabank,Scotiabank,%,M
+PN07715EM,bank,crecimiento_colocaciones_mensual,Continental,BBVA,%,M
+PN07716EM,bank,crecimiento_colocaciones_mensual,Comercio,Banco de Comercio,%,M
+PN07717EM,bank,crecimiento_colocaciones_mensual,Financiero,Banco Pichincha,%,M
+PN07718EM,bank,crecimiento_colocaciones_mensual,BanBif,BanBif,%,M
+PN07719EM,bank,crecimiento_colocaciones_mensual,MiBanco,MiBanco,%,M
+PN07720EM,bank,crecimiento_colocaciones_mensual,GNB,GNB,%,M
+PN07721EM,bank,crecimiento_colocaciones_mensual,Falabella,Falabella,%,M
+PN07722EM,bank,crecimiento_colocaciones_mensual,Santander,Santander,%,M
+PN07723EM,bank,crecimiento_colocaciones_mensual,Ripley,Ripley,%,M
+PN07724EM,bank,crecimiento_colocaciones_mensual,Azteca,Azteca,%,M
+PN07726EM,bank,crecimiento_colocaciones_mensual,Cencosud,Cencosud,%,M
+PN07727EM,bank,crecimiento_colocaciones_mensual,ICBC,ICBC,%,M
+PN07728EM,bank,crecimiento_colocaciones_mensual,Empresas Bancarias,Sistema bancario,%,M
+PN07729EM,bank,morosidad,Crédito,BCP,%,M
+PN07730EM,bank,morosidad,Interbank,Interbank,%,M
+PN07731EM,bank,morosidad,Citibank,Citibank,%,M
+PN07732EM,bank,morosidad,Scotiabank,Scotiabank,%,M
+PN07733EM,bank,morosidad,Continental,BBVA,%,M
+PN07734EM,bank,morosidad,Comercio,Banco de Comercio,%,M
+PN07735EM,bank,morosidad,Financiero,Banco Pichincha,%,M
+PN07736EM,bank,morosidad,BanBif,BanBif,%,M
+PN07737EM,bank,morosidad,MiBanco,MiBanco,%,M
+PN07738EM,bank,morosidad,GNB,GNB,%,M
+PN07739EM,bank,morosidad,Falabella,Falabella,%,M
+PN07740EM,bank,morosidad,Santander,Santander,%,M
+PN07741EM,bank,morosidad,Ripley,Ripley,%,M
+PN07742EM,bank,morosidad,Azteca,Azteca,%,M
+PN07744EM,bank,morosidad,Cencosud,Cencosud,%,M
+PN07745EM,bank,morosidad,ICBC,ICBC,%,M
+PN07746EM,bank,morosidad,Empresas Bancarias,Sistema bancario,%,M
+PN07747EM,bank,eficiencia,Crédito,BCP,%,M
+PN07748EM,bank,eficiencia,Interbank,Interbank,%,M
+PN07749EM,bank,eficiencia,Citibank,Citibank,%,M
+PN07750EM,bank,eficiencia,Scotiabank,Scotiabank,%,M
+PN07751EM,bank,eficiencia,Continental,BBVA,%,M
+PN07752EM,bank,eficiencia,Comercio,Banco de Comercio,%,M
+PN07753EM,bank,eficiencia,Financiero,Banco Pichincha,%,M
+PN07754EM,bank,eficiencia,BanBif,BanBif,%,M
+PN07755EM,bank,eficiencia,MiBanco,MiBanco,%,M
+PN07756EM,bank,eficiencia,GNB,GNB,%,M
+PN07757EM,bank,eficiencia,Falabella,Falabella,%,M
+PN07758EM,bank,eficiencia,Santander,Santander,%,M
+PN07759EM,bank,eficiencia,Ripley,Ripley,%,M
+PN07760EM,bank,eficiencia,Azteca,Azteca,%,M
+PN07762EM,bank,eficiencia,Cencosud,Cencosud,%,M
+PN07763EM,bank,eficiencia,ICBC,ICBC,%,M
+PN07764EM,bank,eficiencia,Empresas Bancarias,Sistema bancario,%,M
+PN07765EM,bank,utilidad_acumulada,Crédito,BCP,millones S/,M
+PN07766EM,bank,utilidad_acumulada,Interbank,Interbank,millones S/,M
+PN07767EM,bank,utilidad_acumulada,Citibank,Citibank,millones S/,M
+PN07768EM,bank,utilidad_acumulada,Scotiabank,Scotiabank,millones S/,M
+PN07769EM,bank,utilidad_acumulada,Continental,BBVA,millones S/,M
+PN07770EM,bank,utilidad_acumulada,Comercio,Banco de Comercio,millones S/,M
+PN07771EM,bank,utilidad_acumulada,Financiero,Banco Pichincha,millones S/,M
+PN07772EM,bank,utilidad_acumulada,BanBif,BanBif,millones S/,M
+PN07773EM,bank,utilidad_acumulada,MiBanco,MiBanco,millones S/,M
+PN07774EM,bank,utilidad_acumulada,GNB,GNB,millones S/,M
+PN07775EM,bank,utilidad_acumulada,Falabella,Falabella,millones S/,M
+PN07776EM,bank,utilidad_acumulada,Santander,Santander,millones S/,M
+PN07777EM,bank,utilidad_acumulada,Ripley,Ripley,millones S/,M
+PN07778EM,bank,utilidad_acumulada,Azteca,Azteca,millones S/,M
+PN07780EM,bank,utilidad_acumulada,Cencosud,Cencosud,millones S/,M
+PN07781EM,bank,utilidad_acumulada,ICBC,ICBC,millones S/,M
+PN07782EM,bank,utilidad_acumulada,Empresas Bancarias,Sistema bancario,millones S/,M
+PN07783EM,bank,palanca_global,Crédito,BCP,veces,M
+PN07784EM,bank,palanca_global,Interbank,Interbank,veces,M
+PN07785EM,bank,palanca_global,Citibank,Citibank,veces,M
+PN07786EM,bank,palanca_global,Scotiabank,Scotiabank,veces,M
+PN07787EM,bank,palanca_global,Continental,BBVA,veces,M
+PN07788EM,bank,palanca_global,Comercio,Banco de Comercio,veces,M
+PN07789EM,bank,palanca_global,Financiero,Banco Pichincha,veces,M
+PN07790EM,bank,palanca_global,BanBif,BanBif,veces,M
+PN07791EM,bank,palanca_global,MiBanco,MiBanco,veces,M
+PN07792EM,bank,palanca_global,GNB,GNB,veces,M
+PN07793EM,bank,palanca_global,Falabella,Falabella,veces,M
+PN07794EM,bank,palanca_global,Santander,Santander,veces,M
+PN07795EM,bank,palanca_global,Ripley,Ripley,veces,M
+PN07796EM,bank,palanca_global,Azteca,Azteca,veces,M
+PN07798EM,bank,palanca_global,Cencosud,Cencosud,veces,M
+PN07799EM,bank,palanca_global,ICBC,ICBC,veces,M
+PN07800EM,bank,palanca_global,Empresas Bancarias,Sistema bancario,veces,M
+PD04722MM,macro,tasa_referencia,,,%,M
+PN01207PM,macro,tipo_cambio,,,S/ por US$,M
+PN01273PM,macro,inflacion_12m,,,%,M
+PN01728AM,macro,pbi_var_12m,,,%,M
+PN01770AM,macro,pbi_indice,,,2007=100,M
+PN00518MM,macro,credito_privado,,,millones S/,M
